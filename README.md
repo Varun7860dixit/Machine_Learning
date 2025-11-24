@@ -87,40 +87,6 @@ practical project implementations.
 
 <hr>
 
-<h2>📂 Suggested Folder Structure</h2>
-
-<pre>
-├── supervised_learning/
-│   ├── regression/
-│   ├── classification/
-│   ├── ensemble_methods/
-│   └── model_selection/
-│
-├── unsupervised_learning/
-│   ├── clustering/
-│   ├── dimensionality_reduction/
-│   ├── anomaly_detection/
-│   └── association_rules/
-│
-├── reinforcement_learning/
-│   ├── bandits/
-│   └── tabular_rl/
-│
-├── pipelines/
-│   ├── preprocessing/
-│   ├── feature_engineering/
-│   └── evaluation/
-│
-├── projects/
-│   ├── regression/
-│   ├── classification/
-│   └── time_series/
-│
-└── README.md
-</pre>
-
-<hr>
-
 <h2>🎯 Purpose of This Repository</h2>
 <ul>
   <li>Provide a complete learning resource for classical ML</li>
@@ -128,16 +94,6 @@ practical project implementations.
   <li>Share real-world workflows and project templates</li>
   <li>Encourage experimentation and reproducibility</li>
   <li>Build a growing library of ML models</li>
-</ul>
-
-<hr>
-
-<h2>🤝 Contributions</h2>
-<p>Contributions are welcome! You can contribute via:</p>
-<ul>
-  <li>Pull Requests</li>
-  <li>Issue Reports</li>
-  <li>Feature Suggestions</li>
 </ul>
 
 <hr>
